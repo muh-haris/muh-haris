@@ -79,6 +79,6 @@ Languages & Tools
 
 ## 🤝 Let's Connect
 
-I'm always interested in conversations about AI agents, MCP, cloud, and secure delivery of AI systems. If you have a project, a question, or a collaboration idea, feel free to reach out at [YOUR_EMAIL](mailto:harisyasir168@gmail.com).
+I'm always interested in conversations about AI agents, MCP, cloud, and secure delivery of AI systems. If you have a project, a question, or a collaboration idea, feel free to reach out at [harisyasir168@gmail.com](mailto:harisyasir168@gmail.com).
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7BCB88,100:63A8D0&height=100&section=footer" />
