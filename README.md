@@ -8,7 +8,7 @@
 </p>
 <p align="center">
 <!-- Replace YOUR_EMAIL with your own details. -->
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:harisyasir168@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/muhammad-haris-yasir/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -79,6 +79,6 @@ Languages & Tools
 
 ## 🤝 Let's Connect
 
-I'm always interested in conversations about AI agents, MCP, cloud, and secure delivery of AI systems. If you have a project, a question, or a collaboration idea, feel free to reach out at [YOUR_EMAIL](mailto:YOUR_EMAIL).
+I'm always interested in conversations about AI agents, MCP, cloud, and secure delivery of AI systems. If you have a project, a question, or a collaboration idea, feel free to reach out at [YOUR_EMAIL](mailto:harisyasir168@gmail.com).
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7BCB88,100:63A8D0&height=100&section=footer" />
