@@ -8,7 +8,7 @@
 </p>
 <p align="center">
 <!-- Replace YOUR_EMAIL with your own details. -->
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:harisyasir168@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/muhammad-haris-yasir/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -68,29 +68,17 @@ Languages & Tools
 
 ## 📊 GitHub Stats
 
-<table align="center">
-<tr>
-<td width="50%">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=muh-haris&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github&include_all_commits=true" />
-</td>
-<td width="50%">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muh-haris&layout=compact&theme=github_dark&hide_border=false&card_width=495" />
-</td>
-</tr>
-</table>
-
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=muh-haris&theme=github-dark-blue&fire=2F81F7&ring=39D353&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=39D353" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=muh-haris&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muh-haris&layout=compact&theme=github_dark&hide_border=false" />
 </p>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=muh-haris&theme=darkhub&row=1&column=8&margin-w=8&margin-h=8&no-frame=false&no-bg=false" />
-</p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=muh-haris&theme=github-dark-blue&fire=2F81F7&ring=39D353&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=39D353" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=muh-haris&theme=darkhub&column=8&margin-w=8" /></p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in conversations about AI agents, MCP, cloud, and secure delivery of AI systems. If you have a project, a question, or a collaboration idea, feel free to reach out at [YOUR_EMAIL](mailto:YOUR_EMAIL).
+I'm always interested in conversations about AI agents, MCP, cloud, and secure delivery of AI systems. If you have a project, a question, or a collaboration idea, feel free to reach out at [harisyasir168@gmail.com](mailto:harisyasir168@gmail.com).
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7BCB88,100:63A8D0&height=100&section=footer" />
